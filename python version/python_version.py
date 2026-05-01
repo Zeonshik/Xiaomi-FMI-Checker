@@ -9,7 +9,7 @@ import telebot
 from dotenv import load_dotenv
 
 
-CHANNEL_USERNAME = "your channel if need"
+CHANNEL_USERNAME = "@your channel if need"
 CHANNEL_URL = "https://t.me/your channel if need"
 
 ERROR_TRANSLATIONS = {
