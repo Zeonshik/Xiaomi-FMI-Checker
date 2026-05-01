@@ -40,7 +40,7 @@ def load_token() -> str:
     load_dotenv()
     token = os.getenv("BOT_TOKEN", "").strip()
     if not token:
-        raise RuntimeError("BOT_TOKEN is missing. Put it in BOT_FMI/.env")
+        raise RuntimeError("BOT_TOKEN is missing")
     return token
 
 
