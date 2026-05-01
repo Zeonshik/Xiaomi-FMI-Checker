@@ -25,7 +25,7 @@ ERROR_TRANSLATIONS = {
 
 HELP_TEXT = (
     "Bot for checking Xiaomi FMI / Find Device by IMEI.\n\n"
-    "To use the bot you need to subscribe to the channel @idevice_channel1.\n\n"
+    "To use the bot you need to subscribe to the channel.\n\n"
     "Commands:\n"
     "/help - show help\n"
     "/check <imei> - check FMI status\n\n"
