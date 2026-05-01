@@ -1,1 +1,1 @@
-A simple bot for checking FMI on Xiaomi devices, PHP and Python
+A simple bot source code for checking FMI on Xiaomi devices, PHP and Python
